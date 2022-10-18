@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cooking-best/static/css/main.b315d973.css",
-    "main.js": "/cooking-best/static/js/main.6a2646aa.js",
+    "main.css": "/cooking-best/static/css/main.80c31255.css",
+    "main.js": "/cooking-best/static/js/main.7a7f910d.js",
     "index.html": "/cooking-best/index.html",
-    "main.b315d973.css.map": "/cooking-best/static/css/main.b315d973.css.map",
-    "main.6a2646aa.js.map": "/cooking-best/static/js/main.6a2646aa.js.map"
+    "main.80c31255.css.map": "/cooking-best/static/css/main.80c31255.css.map",
+    "main.7a7f910d.js.map": "/cooking-best/static/js/main.7a7f910d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b315d973.css",
-    "static/js/main.6a2646aa.js"
+    "static/css/main.80c31255.css",
+    "static/js/main.7a7f910d.js"
   ]
 }
